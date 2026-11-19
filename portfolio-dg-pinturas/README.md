@@ -21,4 +21,8 @@ No `dist/index.html`, substitua `55SEUNUMERO` no link do botão pelo telefone co
 
 Para colocar a foto de perfil, salve a imagem em `dist/images/perfil-pintor.jpg` e substitua o marcador circular no card por uma tag `<img class="whatsapp-profile-photo" src="images/perfil-pintor.jpg" alt="Foto do pintor">`.
 
+## Publicação no GitHub Pages
+
+O GitHub Pages está configurado para publicar a pasta `docs` na raiz do repositório. A cópia publicada está em `../docs`; ao atualizar os arquivos em `dist`, copie novamente o conteúdo de `dist` para essa pasta antes de fazer commit e push.
+
 Os quadros coloridos são marcadores temporários para facilitar a troca pelas fotos reais de cada trabalho.
