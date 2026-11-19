@@ -1,0 +1,4 @@
+Coloque aqui as fotos do portfólio. No index.html, use caminhos como:
+images/parede-01.jpg
+
+Cada imagem deve ter um texto alt curto descrevendo o que aparece nela.
